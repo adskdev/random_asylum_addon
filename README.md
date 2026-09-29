@@ -5,7 +5,7 @@
 
 ## Support
 You can find my DonationAlerts link at: [adsk.pages.dev](https://adsk.pages.dev/)  
-If it's not loading, use this direct link: [dalink.to/nullmoge](https://dalink.to/nullmoge)
+If it's not loading, use this direct link: [dalink.to/adskdev](https://dalink.to/adskdev)
 
 ## Also see
 * [Random Asylum Music (Item Asylum edition)](https://steamcommunity.com/sharedfiles/filedetails/?id=3590260323)
